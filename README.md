@@ -1,6 +1,6 @@
 # Hi there, I'm Zaki Sultan 👋
 
-**Computer Science and Engineering student, web developer and **
+**Computer Science and Engineering student, web developer**
 
 ### 👨‍💻 About Me
 - 🎓 I'm currently persuing Computer Science and Engineering.
