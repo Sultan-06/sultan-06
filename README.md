@@ -9,6 +9,7 @@
 
 🚀 Projects
 - CineMachine →  movie streaming web platform interface
+- Tic Tac Toe →  simple game of Tic Tac Toe
 
 
 
