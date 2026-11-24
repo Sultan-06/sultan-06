@@ -1,17 +1,42 @@
-# Hi there, I'm Zaki Sultan 👋
+# 👋 Hey, I'm Zaki Sultan!
 
-**Computer Science and Engineering student, web developer**
+### 💻 Computer Science & Engineering Student | Frontend Developer
+
+I'm a CSE student passionate about web development, creating interactive websites, and exploring new technologies.
 
 ### 👨‍💻 About Me
-- 🎓 I'm currently persuing Computer Science and Engineering.
+- 🎓 Currently pursuing Computer Science & Engineering.
 - 💻 Building **CineMachine**, a custom movie streaming web platform interface.
-- 🌱 Currently focusing on frontend web development using HTML, CSS, JavaScript, and React.
+- 🌱 Currently learning and improving my skills in React.js and frontend development.
+- 🚀 Interested in building modern, responsive, and user-friendly web applications.
+- ⚡ Always learning, experimenting, and turning ideas into projects.
 
-🚀 Projects
-- CineMachine →  movie streaming web platform interface
-- Tic Tac Toe →  simple game of Tic Tac Toe
+### 🛠️ Tech Stack
+- 🌐 Frontend: HTML, CSS, JavaScript, React.js
+- 💻 Programming: C, C++
+- 🔧 Tools: Git, GitHub, VS Code
 
+### 🚀 Projects
 
+**🎬 CineMachine**
+- A custom movie streaming web platform interface.
+- Focused on modern UI and user experience.
 
+**❌ Tic Tac Toe**
+- A simple interactive Tic Tac Toe game.
+- Built using HTML, CSS, and JavaScript.
 
+### 🎯 Currently Working On
+- Improving my frontend development skills.
+- Learning React.js in more depth.
+- Building creative web development projects.
 
+### 💡 My Philosophy
+
+"Learn something new. Build something useful. Repeat. 🚀"
+
+### 🤝 Let's Connect!
+
+Always open to learning, collaborating, and building something interesting with fellow developers.
+
+⭐ Thanks for visiting my profile!
