@@ -15,6 +15,7 @@ I'm a CSE student passionate about web development, creating interactive website
 - 🌐 Frontend: HTML, CSS, JavaScript, React.js
 - 💻 Programming: C, C++
 - 🔧 Tools: Git, GitHub, VS Code
+- 🗄️ Database: MySQL
 
 ### 🚀 Projects
 
@@ -31,9 +32,6 @@ I'm a CSE student passionate about web development, creating interactive website
 - Learning React.js in more depth.
 - Building creative web development projects.
 
-### 💡 My Philosophy
-
-"Learn something new. Build something useful. Repeat. 🚀"
 
 ### 🤝 Let's Connect!
 
